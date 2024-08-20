@@ -33,7 +33,7 @@ npm run dev
 ### 3. Abre tu navegador y visita:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## Estructura del Proyecto
