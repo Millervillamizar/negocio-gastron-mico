@@ -1,8 +1,44 @@
-# React + Vite
+# Landing Page de Negocio Gastronómico
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una landing page para un negocio gastronómico, diseñada con React y Material UI. La página es completamente responsive y tiene un diseño atractivo que se adapta a dispositivos móviles y pantallas grandes.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Navegación:** Barra de navegación con ruteo entre secciones utilizando React Router.
+- **Secciones:** Página principal con una imagen de fondo impactante, catálogo de productos, y sección de contacto.
+- **Responsive:** La página está optimizada para dispositivos móviles, con un menú tipo hamburguesa en pantallas pequeñas.
+- **Estilo:** Diseño elegante y natural con una paleta de colores cálidos (verdes, marrones, beige).
+- **Despliegue:** Preparada para ser desplegada en cualquier servidor web estático.
+
+## Tecnologías Utilizadas
+
+- **React**: Librería principal para la construcción de la interfaz.
+- **Material UI**: Framework de componentes UI para React, utilizado para el estilizado y el diseño responsive.
+- **React Router**: Manejo del ruteo entre las diferentes secciones de la página.
+
+## Instalación y Ejecución
+
+### 1. Instala las dependencias:
+
+```bash
+npm install
+```
+
+### 2. Ejecuta el proyecto en modo desarrollo:
+
+```bash
+npm run dev
+```
+
+### 3. Abre tu navegador y visita:
+
+```
+http://localhost:5173
+```
+
+## Estructura del Proyecto
+
+- **src/components**: Contiene los componentes reutilizables como `Navbar` y `Footer`.
+- **src/pages**: Contiene las páginas principales del sitio (`Home`, `Catalog`, `Contact`).
+- **src/theme.js**: Configuración del tema de Material UI, incluyendo la paleta de colores.
+
