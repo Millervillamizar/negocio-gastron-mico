@@ -32,7 +32,7 @@ function Home() {
           to="/catalog"
           sx={{ mt: 2 }}
         >
-          Ver Nuestro Catálogo
+          Ver Catálogo
         </Button>
       </Box>
     </Box>
