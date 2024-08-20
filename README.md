@@ -21,8 +21,8 @@ Este proyecto es una landing page para un negocio gastronómico, diseñada con R
 ### 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/negocio-gastronomico.git
-cd negocio-gastronomico
+git clone https://github.com/Millervillamizar/negocio-gastron-mico.git
+cd negocio-gastron-mico
 ```
 
 ### 2. Instala las dependencias:
