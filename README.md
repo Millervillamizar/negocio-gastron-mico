@@ -18,19 +18,25 @@ Este proyecto es una landing page para un negocio gastronómico, diseñada con R
 
 ## Instalación y Ejecución
 
-### 1. Instala las dependencias:
+### 1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tuusuario/negocio-gastronomico.git
+cd negocio-gastronomico
+
+### 2. Instala las dependencias:
 
 ```bash
 npm install
 ```
 
-### 2. Ejecuta el proyecto en modo desarrollo:
+### 3. Ejecuta el proyecto en modo desarrollo:
 
 ```bash
 npm run dev
 ```
 
-### 3. Abre tu navegador y visita:
+### 4. Abre tu navegador y visita:
 
 ```
 http://localhost:5173
